@@ -1,0 +1,29 @@
+{
+  "cantidades": {
+      "green_deck_expansion_1": 2,
+      "green_deck_expansion_2": 2,
+      "green_deck_expansion_3": 1,
+      "blue_deck_expansion_1": 2,
+      "blue_deck_expansion_2": 2,
+      "blue_deck_expansion_3": 1,
+      "red_deck_expansion_1": 2,
+      "red_deck_expansion_2": 2,
+      "red_deck_expansion_3": 1,
+      "purple_deck_expansion_1": 1,
+      "purple_deck_expansion_2": 2
+    },
+  "rutas_cartas": {
+    "green_deck_expansion_1": "./assetss/cartas/green_deck_expansion_1",
+    "green_deck_expansion_2": "./assetss/cartas/green_deck_expansion_2",
+    "green_deck_expansion_3": "./assetss/cartas/green_deck_expansion_3",
+    "blue_deck_expansion_1": "./assetss/cartas/blue_deck_expansion_1",
+    "blue_deck_expansion_2": "./assetss/cartas/blue_deck_expansion_2",
+    "blue_deck_expansion_3": "./assetss/cartas/blue_deck_expansion_3",
+    "red_deck_expansion_1": "./assetss/cartas/red_deck_expansion_1",
+    "red_deck_expansion_2": "./assetss/cartas/red_deck_expansion_2",
+    "red_deck_expansion_3": "./assetss/cartas/red_deck_expansion_3",
+    "purple_deck_expansion_1": "./assetss/cartas/purple_deck_expansion_1",
+    "purple_deck_expansion_2": "./assetss/cartas/purple_deck_expansion_2"
+}
+} 
+
